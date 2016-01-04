@@ -1,0 +1,9 @@
+Volley sýnýfýný kullanmamýz için bilmemiz gereken bazý bilgiler;
+
+1. build.gradle dosyasýmýzýn dep'i içine eklememiz gereken gradle;
+Örn; 'com.mcxiaoke.volley:library:1.0.19' þeklindedir. Siz aþaðýdan en son sürümünü alýp projenize ekleyebilirsiniz.
+http://mvnrepository.com/artifact/com.mcxiaoke.volley/library
+
+Ýþe yarayacak linkler;
+1- https://github.com/mcxiaoke/android-volley
+2- http://developer.android.com/training/volley/index.html
