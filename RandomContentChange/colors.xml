@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="siyah">#000000</color>
+    <color name="beyaz">#FFFFFF</color>
+    <color name="mavi">#0431d9</color>
+    <color name="kirmizi">#ff0000</color>
+    <color name="sari">#e1cc1b</color>
+    <color name="yesil">#36b510</color>
+</resources>

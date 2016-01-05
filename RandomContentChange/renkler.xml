@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="image">
+        <item>@color/siyah</item>
+        <item>@color/beyaz</item>
+        <item>@color/mavi</item>
+        <item>@color/kirmizi</item>
+        <item>@color/yesil</item>
+        <item>@color/sari</item>
+    </array>
+</resources>
